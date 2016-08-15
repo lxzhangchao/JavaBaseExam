@@ -4,5 +4,5 @@ mvn archetype:generate -DgroupId=com.hand -DartifactId=Exam3 -DarchetypeArtifact
 #Ö´ÐÐÏîÄ¿
 cd Exam3
 
-mvn exec:java -Dexec.mainClass="com.hand.RamNumber"
+mvn exec:java -Dexec.mainClass="com.hand.DayNumber"
 
